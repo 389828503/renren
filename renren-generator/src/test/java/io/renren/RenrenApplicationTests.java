@@ -12,6 +12,7 @@ public class RenrenApplicationTests {
 	@Test
 	public void contextLoads() {
 		/////////////////cccccccccccccccccccccccccc
+		///bbbbbbbbbbb
 	}
 
 }
