@@ -6,7 +6,7 @@ import org.junit.runner.RunWith;
 import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
-//@SpringBootTest2222222222222
+//@SpringBootTest22222222222222222222333333333333
 public class RenrenApplicationTests {
 
 	@Test
